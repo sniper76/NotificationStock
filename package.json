@@ -1,0 +1,19 @@
+{
+  "name": "stocktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/web-api": "^7.12.0",
+    "axios": "^1.13.2",
+    "date-holidays": "^3.26.5",
+    "dotenv": "^17.2.3",
+    "node-schedule": "^2.1.1"
+  }
+}
